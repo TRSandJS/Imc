@@ -38,6 +38,3 @@ function imc () {
 calcular.addEventListener('click', imc);
 
 
-//document.addEventListener("keypress", function(e){
-  //  if(e.key === "Enter" , imc)
-//})
